@@ -1,0 +1,37 @@
+Symfony : Introduction à Symfony 4 - Quête WCS
+
+1 - Quelle est la société qui développe Symfony ?
+L'agence web française SensioLabs est à l'origine du framework Sensio Framework qui est devenu par la suite Symfony.
+
+2 - Cite les autres produits développés par cette société ?
+- Twig
+- Doctrine
+- Silex
+- Swiftmailer
+
+3 - Parmi ces outils, lesquels sont des frameworks
+- Symfony 4
+- Laravel
+parce que Gaetan l'a dit !
+
+4 - Symfony 4 embarque la librairie Twig
+La question est fausse parce que si tu fais un webside skeleton twig, c'est dedans sinon non !
+
+5 - Flexbox est le nouveau système de gestion des dépendances dans Symfony 4.
+Faux Flexbox est un système de mise en page css
+
+6 - Pour créer un projet Symfony 4, tu dois utiliser la commande :
+vrai composer create-project <skeleton-de-ton-choix> <project-name>
+faux car symfony new <project-name> <version> sur version Symfony 3.4 et inférieur
+
+7 - MVC est un type d'architecture propre à Symfony
+Faux on en chie tellement !
+
+8 - Le V de MVC signifie Vue (View), pourquoi ?
+Parce que c'est la partie visible de l'application
+
+9 - Les actions des contrôleurs doivent se terminer par Action
+Faux, c'était valable avant Symfony 3.4
+
+10 - La version minimum de PHP pour utiliser Symfony 4 est la
+7.1 car il y a des typages
